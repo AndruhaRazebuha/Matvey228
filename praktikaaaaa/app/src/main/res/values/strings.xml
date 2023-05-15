@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">praktikaaaaa</string>
+    <string name="key">Изображение ключа</string>
+    <string name="connect">Вход</string>
+    <string name="vost">Восстановление аккаунта</string>
+    <string name="parol">На телефон в сообщения вам придет ваш новый пароль!</string>
+    <string name="otpravit">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="logo">Логотип</string>
+    <string name="telephone">Телефон</string>
+    <string name="button_list">Три палки</string>
+    <string name="profile">Профиль</string>
+    <string name="neww">Новые</string>
+    <string name="activeorders">Активные</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
